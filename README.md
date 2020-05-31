@@ -14,3 +14,16 @@ python pacman.py -q -n 10 -p MDPAgent -l smallGrid
 python pacman.py -q -n 10 -p MDPAgent -l mediumClassic
 
 The -n 10 runs ten games in a row.
+
+
+
+
+the feedback of this coursework is shown as follow:
+
+1) Coding
+
+Code style is good (but with some big blocks of code that are confusing – for in for in for…). Comments are few and quite unhelpful.	
+
+2) Report
+
+The description is really good! Congrats! The evaluation should be expanded, with each component to be tested and evaluated.
